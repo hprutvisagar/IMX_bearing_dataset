@@ -14,3 +14,10 @@ This repo contains two ipynb files
       the model developed 
         **training accuracy : 0.98  
         testing accuracy : 0.92**
+        
+        
+ Along with the python notebooks (ipynb) i have also placed the Test1.csv, Test2.csv and Test3.csv which are the dataframes of compiled experiments.
+ 
+ References: 
+ 1. https://www.youtube.com/watch?v=WJ7JEwBoF8c (NPTEL prognostics course)
+ 2. https://www.youtube.com/watch?v=WCjR9vuir8s (approach to the problem)
